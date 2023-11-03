@@ -1,0 +1,103 @@
+.xerocodee-way-main {
+  background-color: white;
+  width: 85%;
+  border-radius: 35px;
+  padding: 80px;
+  margin-bottom: 90px;
+}
+
+.way-boiler-plate {
+  text-align: center;
+}
+
+.way-title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 40px;
+}
+
+.way-h2-title {
+  font-size: 35px;
+  color: #242331;
+}
+
+.way-title2 {
+  margin: 90px 0 0 0;
+}
+
+.rocket-png {
+  width: 40px;
+  height: 40px;
+}
+
+.line-img {
+  width: 80px;
+  margin-top: 0;
+}
+
+.way-h3-title {
+  color: #332c5c;
+  margin: 70px 0 15px 0;
+}
+
+.way-para {
+  color: #5e587a;
+  font-size: 13px;
+  margin-bottom: 50px;
+  line-height: 1.8;
+}
+
+.way-components {
+  display: flex;
+  gap: 15px;
+  font-size: 10px;
+  text-align: center;
+}
+
+.way-img-info {
+  display: flex;
+  align-items: center;
+}
+
+.way-img1 {
+  width: 400px;
+  height: 300px;
+}
+
+.way-img-info2 {
+  display: flex;
+  align-items: center;
+  gap: 100px;
+}
+
+.way-img2 {
+  width: 360px;
+}
+
+.way-img-div {
+  width: 45%;
+  text-align: center;
+}
+
+.way-img3 {
+  width: 130px;
+}
+
+.way-title-para {
+  width: 55%;
+}
+
+.way-img4 {
+  width: 250px;
+}
+
+.way-two-images-div {
+  display: flex;
+}
+
+.way-img5,
+.way-img6 {
+  width: 200px;
+}

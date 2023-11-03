@@ -1,0 +1,33 @@
+.first-page-main {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title {
+  font-size: 40px;
+  font-weight: 800;
+  max-width: 700px;
+  color: #242331;
+  margin: 40px 0 15px 0;
+}
+
+.para {
+  color: #797979;
+  max-width: 750px;
+}
+
+.btn {
+  background-color: #0c5bc6;
+  color: white;
+  border-radius: 4px;
+  border: none;
+  padding: 8px 33px;
+  margin: 30px 0 10px 0;
+}
+
+.vector-img1 {
+  width: 85%;
+  /* border: 1px solid black; */
+}
